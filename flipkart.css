@@ -1,0 +1,164 @@
+.container
+{
+    background-color: lightgray;
+}
+.header
+{
+    width:100%;
+    height:100px;
+    background-color:#fff;
+    display: flex;
+    margin-top: 20px;
+
+}
+.rightside
+{
+    width: 400px;
+    height: 50px;
+    background-color:#fff;
+    margin-left: 350px;
+    display: flex;
+    margin-top: 0px;
+}
+.cart1
+{
+    width:50px;
+    height:100px;
+    margin-left: 90px;
+}
+.becomeaseller
+{
+    margin-left: 90px;
+    
+}
+.help
+{
+    margin-left: 90px;
+}
+.menulanding
+{
+    width: 100%;
+    height: 120px;
+    background-color: #fff;
+    display: flex;
+    padding-top: 0px;
+}
+.menu1
+{
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left: 90px;
+}
+.menu2
+{
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left:40px;
+}
+.menu3
+{
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left:40px;
+}
+.menu4
+{
+   
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left:40px;
+}
+.menu5
+{
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left:40px;
+}
+.menu6
+{
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left:40px;
+}
+.menu7
+{
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left:40px;
+}
+.menu8
+{
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left:40px;
+}
+.menu9
+{
+    width: 90px;
+    height: 100px;
+    background-color: #fff;
+    float: left;
+    margin-left:40px;
+}
+.divlandingpage
+{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(139, 119, 177);
+}
+.leftdiv
+{
+    width: 450px;
+  height: 50px;
+  background-color:#fff;
+  padding-left: 40px;
+}
+.iconsearch
+{
+  width: 350px;
+  height: 50px;
+  background-color: rgb(220, 228, 236);
+  padding-left: 20px;
+}
+.searchtype
+{
+  width: 300px;
+  height: 50px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+ 
+}
+.ptravel
+{
+    margin-left:25px;
+}
+.pbeauty
+{
+    margin-left:25px;
+}
+.nextslide
+ {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    right: 16px;
+    top: 50%;
+    transform: scale(1) translateY(-50%);
+}
